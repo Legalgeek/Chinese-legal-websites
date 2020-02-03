@@ -1,5 +1,5 @@
 # legaldesktop
-中国法学文章和审判案例信息
+中国法学文章和审判案例信息</br>
 <a href="http://211.100.18.62/index.asp">北大法律信息网</a> 
 
 <a href="http://ccls.bnu.edu.cn/" target="_blank">京师刑事法治网</a> 
@@ -213,8 +213,6 @@
 <a href="http://www.fxcxw.org/" target="_black">中国法学创新网</a> 
 
 <a href="http://www.fxcxw.org/" target="_blank">中国法学创新网</a> 
-　
-<a href="http://www.fxcxw.org/index.php/Home/Index/fxdh2.html"> 更多 &gt;&gt;</a> 
 
 <a href="http://www.fyfz.cn/" target="_blank">法律博客网</a> 
  　
