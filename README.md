@@ -1,15 +1,15 @@
-#中国法学网站
+# 中国法律学习类网站
 
 <a href="http://211.100.18.62/index.asp">北大法律信息网</a></br>
 <a href="http://ccls.bnu.edu.cn/" target="_blank">京师刑事法治网</a></br>
 <a href="http://chl.ruc.edu.cn/" target="_blank">文化遗产法研究网</a></br>
 <a href="http://creativecommons.net.cn/" target="_blank">知识共享@中国大陆</a></br>
 <a href="http://dpls.ruc.edu.cn/" target="_blank">残疾人权益保障法律研究与服务中</a></br>
-<a href="http://e.weibo.com/fatianxia?type=0" target="_blank">法天下微博</a></br> 
+<a href="http://e.weibo.com/fatianxia?type=0" target="_blank">法天下微博</a></br>
 <a href="http://fxcxw.org/" target="_blank" >中国法学创新网</a></br>
 <a href="http://fzzfyjy.cupl.edu.cn/" target="_blank" >法治政府网</a></br>
 <a href="http://ghpf.acftu.org/">中国工会普法网</a></br>
-<a href="http://http://www.chinacapitallaw.com/">资本市场法治网</a></br>     
+<a href="http://http://www.chinacapitallaw.com/">资本市场法治网</a></br>
 <a href="http://humanrights.ruc.edu.cn/" target="_blank">中国人民大学人权研究中心</a></br>
 <a href="http://ielaw.uibe.edu.cn/" target="_blank">国际经济法网</a></br>
 <a href="http://ipr.ruc.edu.cn/" target="_blank">中国人民大学知识产权学院</a></br>
@@ -21,27 +21,27 @@
 <a href="http://law.tencent.com/">腾讯互联网法律研究中心</a></br>
 <a href="http://law.xmu.edu.cn/romanlaw">罗马法教室</a></br>
 <a href="http://publaw.znufe.edu.cn/" target="_blank" >中国公法评论网</a></br>
-<a href="http://rmfyb.chinacourt.org">人民法院报</a></br>     
+<a href="http://rmfyb.chinacourt.org">人民法院报</a></br>
 <a href="http://rmfyb.chinacourt.org/" target="_blank">人民法院报</a></br>
 <a href="http://rmfyb.chinacourt.org/paper/" target="_blank" >人民法院报</a></br>
 <a href="http://service.law-star.com/" target="_black">中国法律信息网</a></br>
 <a href="http://web.cupl.edu.cn/msjjfxy_xsw/" target="_black">法大民商经济法律网</a></br>
-<a href="http://web.cupl.edu.cn/msjjfxy_xsw/">法大民商经济法</a></br>     
+<a href="http://web.cupl.edu.cn/msjjfxy_xsw/">法大民商经济法</a></br>
 <a href="http://wenshu.court.gov.cn" target="_blank" >裁判文书网</a></br>
 <a href="http://www.12312.gov.cn/">中国反商业欺诈网</a></br>
 <a href="http://www.acla.org.cn/home/toPage">中国律师网</a></br>
 <a href="http://www.aisixiang.com/" target="_blank" >爱思想网</a></br>
 <a href="http://www.angle.com.tw">元照网络书店</a></br>
-<a href="http://www.angle.com.tw/">元照法律网</a></br>     
+<a href="http://www.angle.com.tw/">元照法律网</a></br>
 <a href="http://www.antimonopolylaw.cn" target="_blank">中国反垄断法网</a></br>
-<a href="http://www.apcyber-law.com/">亚太网络法律研究</a></br>     
+<a href="http://www.apcyber-law.com/">亚太网络法律研究</a></br>
 <a href="http://www.askmylawyer.cn/" target="_black">问律中国</a></br>
 <a href="http://www.bbls.org.cn" target="_blank">中国破产法论坛网</a></br>
-<a href="http://www.bbls.org.cn">中国破产法论坛网</a></br>     
+<a href="http://www.bbls.org.cn">中国破产法论坛网</a></br>
 <a href="http://www.bjelf.com/" target="_blank">北京环境法制论坛网</a></br>
 <a href="http://www.bjfxh.org.cn/">首都法学网</a></br>
 <a href="http://www.bundesverfassungsgericht.de/" target="_blank" >德宪法法院</a></br>
-<a href="http://www.calaw.cn">中国宪政网</a></br>     
+<a href="http://www.calaw.cn">中国宪政网</a></br>
 <a href="http://www.calaw.cn/" target="_blank">中国宪治网</a></br>
 <a href="http://www.cazz.net.cn/" target="_blank">《长安》杂志</a></br>
 <a href="http://www.ccdi.gov.cn/" target="_blank" >国家监察委员会</a></br>
@@ -49,12 +49,12 @@
 <a href="http://www.cclpp.com/">中国企业法律保障网</a></br>
 <a href="http://www.ccourt.go.kr/" target="_blank" >韩国宪法法院</a></br>
 <a href="http://www.ccsl.org.cn/" target="_black">中国公司法律网</a></br>
-<a href="http://www.cel.cn/" target="_blank">经济法网</a></br> 
-<a href="http://www.cftl.cn">中国财税法网</a></br>     
+<a href="http://www.cel.cn/" target="_blank">经济法网</a></br>
+<a href="http://www.cftl.cn">中国财税法网</a></br>
 <a href="http://www.cftl.net.cn">财税法网</a></br>
 <a href="http://www.chinacourt.org/index.shtml">中国法院网</a></br>
 <a href="http://www.chinafoodsecurity.com/" target="_blank">食品安全治理协同创新中心</a></br>
-<a href="http://www.chinaiprlaw.cn">中国知识产权司法保护网</a></br>     
+<a href="http://www.chinaiprlaw.cn">中国知识产权司法保护网</a></br>
 <a href="http://www.chinalaw.gov.cn/" target="_blank" >政府法制信息网</a></br>
 <a href="http://www.chinalaw.org.cn">中国法学会网</a></br>
 <a href="http://www.chinalaw.org.cn/" target="_black">中国法学会</a></br>
@@ -67,27 +67,27 @@
 <a href="http://www.chinalegaleducation.com/" target="_blank" >法学教育网</a></br>
 <a href="http://www.chinalegaleducation.com/" target="_blank">中国法学教育网</a></br>
 <a href="http://www.chinanotary.org/">中国公证网</a></br>
-<a href="http://www.chinapublaw.com/" target="_blank">中国公法网</a></br> 
-<a href="http://www.cicjc.com.cn/" target="_blank">国家司法文明协同创新中心</a></br> 
+<a href="http://www.chinapublaw.com/" target="_blank">中国公法网</a></br>
+<a href="http://www.cicjc.com.cn/" target="_blank">国家司法文明协同创新中心</a></br>
 <a href="http://www.cicjc.com.cn/zh" target="_blank" >司法文明协同创新</a></br>
 <a href="http://www.civillaw.com.cn">中国民商法律网</a></br>
 <a href="http://www.civillaw.com.cn/" target="_black">中国民商法律网</a></br>
 <a href="http://www.civillaw.com.cn/" target="_blank" >中国民商事法律网</a></br>
 <a href="http://www.civillaw.com.cn/" target="_blank">中国民商法律网</a></br>
-<a href="http://www.civillaw.com.cn/" target="_blank">中国民商法律网</a></br> 
+<a href="http://www.civillaw.com.cn/" target="_blank">中国民商法律网</a></br>
 <a href="http://www.civilprocedurelaw.cn/" target="_blank">中国民事程序法律网</a></br>
 <a href="http://www.claf.com.cn/">中国法律援助基金会</a></br>
 <a href="http://www.clsslaw.cn/" target="_blank">中国劳动法和社会保障法律网</a></br>
-<a href="http://www.cnela.com/default.asp">中国经济法治网</a></br>     
+<a href="http://www.cnela.com/default.asp">中国经济法治网</a></br>
 <a href="http://www.cnlsslaw.com/" target="_blank">中国劳动和社会保障法律网</a></br>
-<a href="http://www.commerciallaw.com.cn/">中国商法网</a></br>     
+<a href="http://www.commerciallaw.com.cn/">中国商法网</a></br>
 <a href="http://www.commonlaw.cn/" target="_blank">中国人民大学普通法中心</a></br>
 <a href="http://www.conseil-constitutionnel.fr/" target="_blank" >法国宪法委员会</a></br>
 <a href="http://www.court.gov.cn/" target="_blank" >最高人民法院</a></br>
 <a href="http://www.courts.go.jp/" target="_blank" >日本裁判所</a></br>
 <a href="http://www.cpd.com.cn/">中国警察网</a></br>
 <a href="http://www.cppcc.gov.cn/" target="_blank" >中国人民政协网</a></br>
-<a href="http://www.criminallaw.com.cn">中国刑事法律网</a></br>     
+<a href="http://www.criminallaw.com.cn">中国刑事法律网</a></br>
 <a href="http://www.criminallaw.com.cn/" target="_blank" >中国刑事法律网</a></br>
 <a href="http://www.criminallaw.com.cn/" target="_blank">中国刑事法律网</a></br>
 <a href="http://www.criminallaw.com.cn/" target="_blank">中国刑事法律网</a></br>
@@ -97,30 +97,30 @@
 <a href="http://www.cupl.edu.cn/" target="_black">中国政法大学</a></br>
 <a href="http://www.echr.coe.int/echr/" target="_blank" >欧人权法院</a></br>
 <a href="http://www.enlaw.org">环境法研究网</a></br>
-<a href="http://www.evidencelaw.net">中国证据法网</a></br>     
+<a href="http://www.evidencelaw.net">中国证据法网</a></br>
 <a href="http://www.evidencelaw.net/" target="_blank">中国证据法网</a></br>
 <a href="http://www.fawan.com/" target="_blank">法制晚报</a></br>
 <a href="http://www.faxuejia.org.cn/" target="_blank">《法学家》杂志</a></br>
 <a href="http://www.faxuejia.org.cn/CN/volumn/home.shtml" target="_blank" >法学家杂志</a></br>
-<a href="http://www.faxuejia.org.cn/CN/volumn/home.shtml">《法学家》杂志社</a></br>     
-<a href="http://www.fengxiaoqingip.com">冯晓青知识产权网</a></br>     
+<a href="http://www.faxuejia.org.cn/CN/volumn/home.shtml">《法学家》杂志社</a></br>
+<a href="http://www.fengxiaoqingip.com">冯晓青知识产权网</a></br>
 <a href="http://www.foodlaw.cn/" target="_blank">中国食品安全法治网</a></br>
 <a href="http://www.fxcxw.org/" target="_black">中国法学创新网</a></br>
 <a href="http://www.fxcxw.org/" target="_blank">中国法学创新网</a></br>
-<a href="http://www.fyfz.cn/" target="_blank">法律博客网</a></br> 
+<a href="http://www.fyfz.cn/" target="_blank">法律博客网</a></br>
 <a href="http://www.gmw.cn/">光明网</a></br>
 <a href="http://www.gov.cn/" target="_blank" >中央人民政府网</a></br>
 <a href="http://www.iolaw.org.cn/" target="_black">中国法学网</a></br>
 <a href="http://www.iolaw.org.cn/" target="_blank" >中国法学网</a></br>
 <a href="http://www.iolaw.org.cn/index.asp">中国法学网</a></br>
-<a href="http://www.iolaw.org.cn/index.asp">中国法学网</a></br>     
+<a href="http://www.iolaw.org.cn/index.asp">中国法学网</a></br>
 <a href="http://www.iolawjm.org.cn">中国法硕网</a></br>
 <a href="http://www.ipr.gov.cn/">中国保护知识产权网</a></br>
 <a href="http://www.iprcn.com">知识产权研究中心</a></br>
 <a href="http://www.jcrb.com/" target="_blank" >检察正义网</a></br>
 <a href="http://www.jcrb.com/" target="_blank">检察日报</a></br>
 <a href="http://www.jcrb.com/">正义网</a></br>
-<a href="http://www.jus.cn">中国法理网</a></br>     
+<a href="http://www.jus.cn">中国法理网</a></br>
 <a href="http://www.jus.cn/" target="_blank">中国法理网</a></br>
 <a href="http://www.ksrf.ru" target="_blank" >俄罗斯宪法法院网</a></br>
 <a href="http://www.law-adr.com.cn/" target="_blank">多元化纠纷解决机制研究网</a></br>
@@ -129,7 +129,7 @@
 <a href="http://www.law-lib.com/law/" target="_blank" >法律图书馆新法规</a></br>
 <a href="http://www.law-lib.com/law/" target="_blank">新法规速递</a></br>
 <a href="http://www.law-thinker.com">法律思想网</a></br>
-<a href="http://www.law.ruc.edu.cn">中国人民大学法学院</a></br>     
+<a href="http://www.law.ruc.edu.cn">中国人民大学法学院</a></br>
 <a href="http://www.law.ruc.edu.cn/" target="_blank" >人大法学院</a></br>
 <a href="http://www.law.ruc.edu.cn/jjfxpl/" target="_blank">《经济法学评论》杂志</a></br>
 <a href="http://www.law.ruc.edu.cn/pjyj/" target="_blank">《判解研究》杂志</a></br>
@@ -139,7 +139,7 @@
 <a href="http://www.lawdata.com.cn">月旦法学知识库</a></br>
 <a href="http://www.lawinnovation.com">中国法学创新网</a></br>
 <a href="http://www.lawintime.com">理论法学网</a></br>
-<a href="http://www.lawpress.com.cn">法律出版社</a></br>     
+<a href="http://www.lawpress.com.cn">法律出版社</a></br>
 <a href="http://www.lawpress.com.cn/" target="_blank">法律出版社</a></br>
 <a href="http://www.lawyerstudy.com.cn/" target="_blank">律师业务研究网</a></br>
 <a href="http://www.legal-theory.org/" target="_blank">中国理论法学研究信息网</a></br>
@@ -150,7 +150,7 @@
 <a href="http://www.legalinfo.gov.cn/" target="_blank" >中国普法网</a></br>
 <a href="http://www.legalinfo.gov.cn/">中国普法网</a></br>
 <a href="http://www.legaltheory.com.cn">中国理论法学研究网</a></br>
-<a href="http://www.legaltheory.com.cn">吉林大学理论法学研究中心</a></br>     
+<a href="http://www.legaltheory.com.cn">吉林大学理论法学研究中心</a></br>
 <a href="http://www.legalweekly.cn/">法治周末</a></br>
 <a href="http://www.lib.ruc.edu.cn/" target="_blank" >人大图书馆</a></br>
 <a href="http://www.lishiyushehui.cn/" target="_blank">历史与社会</a></br>
@@ -165,24 +165,24 @@
 <a href="http://www.people.com.cn/">人民网</a></br>
 <a href="http://www.pkusoftlaw.com/" target="_blank" >北大软法网</a></br>
 <a href="http://www.pkusoftlaw.com/" target="_blank">北大软法网</a></br>
-<a href="http://www.privatelaw.com.cn">中国私法网</a></br>     
+<a href="http://www.privatelaw.com.cn">中国私法网</a></br>
 <a href="http://www.privatelaw.com.cn/" target="_blank">中国私法网</a></br>
-<a href="http://www.procedurallaw.cn">中国诉讼法律网</a></br>     
+<a href="http://www.procedurallaw.cn">中国诉讼法律网</a></br>
 <a href="http://www.procedurallaw.cn/" target="_blank">中国诉讼法律网</a></br>
 <a href="http://www.procedurallaw.cn/zh" target="_blank" >中国诉讼法律网</a></br>
 <a href="http://www.publiclaw.cn/" target="_blank" >北大公法网</a></br>
 <a href="http://www.publiclaw.cn/index.asp" target="_blank">北大公法网</a></br>
 <a href="http://www.qstheory.cn/">求是网</a></br>
 <a href="http://www.riel.whu.edu.cn/" target="_blank" >武大环境法所</a></br>
-<a href="http://www.riel.whu.edu.cn/">武汉大学环境法研究所</a></br>     
+<a href="http://www.riel.whu.edu.cn/">武汉大学环境法研究所</a></br>
 <a href="http://www.rmfysszc.gov.cn/">人民法院诉讼资产网</a></br>
-<a href="http://www.romanlaw.cn/">罗马法教室</a></br>     
+<a href="http://www.romanlaw.cn/">罗马法教室</a></br>
 <a href="http://www.ruc.edu.cn/" target="_blank" >中国人民大学</a></br>
 <a href="http://www.ruc.edu.cn/" target="_blank">中国人民大学</a></br>
 <a href="http://www.rucipr.com/" target="_blank">知识产权评论网</a></br>
 <a href="http://www.ruclcc.com/" target="_blank" >中华法律文化网</a></br>
 <a href="http://www.ruclcc.com/" target="_blank">中华法律文化网</a></br>
-<a href="http://www.ruclcc.com/default1.asp" target="_blank">中华法律文化网</a></br> 
+<a href="http://www.ruclcc.com/default1.asp" target="_blank">中华法律文化网</a></br>
 <a href="http://www.rurallandlaw.cn">中国农地法律网</a></br>
 <a href="http://www.scopsr.gov.cn/" target="_blank" >中央机构编制网</a></br>
 <a href="http://www.spp.gov.cn/" target="_blank" >最高检察院</a></br>
@@ -191,8 +191,8 @@
 <a href="http://www.vfgh.gv.at/cms/vfgh-site/index.html" target="_blank" >奥地利宪法法院</a></br>
 <a href="http://www.wipo.int/wipolex/zh" target="_blank">世界知识产权法律和条约数据库</a></br>
 <a href="http://www.xinhuanet.com/">新华网</a></br>
-<a href="http://www.yandayuanzhao.com">燕大元照</a></br>     
-<a href="http://www.yanglx.com">杨立新民商法评论</a></br>     
+<a href="http://www.yandayuanzhao.com">燕大元照</a></br>
+<a href="http://www.yanglx.com">杨立新民商法评论</a></br>
 <a href="http://www.zgfxqk.org.cn/Index.shtml">中国法学期刊网</a></br>
 <a href="http://www.zgfxqk.org.cn/WKA3/WebPublication/index.aspx?mid=zgfx" target="_blank" >中国法学期刊</a></br>
 <a href="http://www.zgfzs.com/" target="_blank">中国法制出版社</a></br>
@@ -310,4 +310,4 @@
 <a target="_blank" href="http://www.zgfxjljjh.org/">中国法学交流基金会</a></br>
 <a target="_blank" href="http://www.zgfxqk.org.cn">中国法学杂志社</a></br>
 <a target="_blank" href="http://www.zhb.gov.cn/">环保总局</a></br>
-​       
+​ 
