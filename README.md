@@ -1,4 +1,83 @@
-# 中国法律学习类网站
+# 中国法律知识类网站
+
+
+
+## 法学院
+
+<a target="_blank" href="http://www.cupl.edu.cn/">中国政法大学</a></br>
+<a target="_blank" href="http://www.law.ruc.edu.cn/">中国人民大学法学院</a></br>
+<a target="_blank" href="http://www.law.pku.edu.cn/">北京大学法学院</a></br>
+<a target="_blank" href="http://www.tsinghua.edu.cn/publish/law/">清华大学法学院</a></br>
+<a target="_blank" href="http://www.swupl.edu.cn/">西南政法大学</a></br>
+<a target="_blank" href="http://fxy.whu.edu.cn/">武汉大学法学院</a></br>
+<a target="_blank" href="http://law.jlu.edu.cn/">吉林大学法学院</a></br>
+<a target="_blank" href="http://law.nankai.edu.cn/Page/Default.aspx">南开大学法学院</a></br>
+<a target="_blank" href="http://law.nju.edu.cn/">南京大学法学院</a></br>
+<a target="_blank" href="http://law.sjtu.edu.cn/">上海交通大学凯原法学院</a></br>
+<a target="_blank" href="http://law.seu.edu.cn/">东南大学法学院</a></br>
+<a target="_blank" href="http://law.xmu.edu.cn/">厦门大学法学院</a></br>
+<a target="_blank" href="http://www.ecupl.edu.cn/">华东政法大学</a></br>
+<a target="_blank" href="http://www.ghls.zju.edu.cn/chinese/">浙江大学光华法学院</a></br>
+<a target="_blank" href="http://www.law.fudan.edu.cn/cn/Default.html">复旦大学法学院</a></br>
+<a target="_blank" href="http://www.law.sdu.edu.cn/default.site">山东大学法学院</a></br>
+<a target="_blank" href="http://www.law.ynu.edu.cn/">云南大学法学院</a></br>
+<a target="_blank" href="http://www.law.ytu.edu.cn/">烟台大学法学院</a></br>
+<a target="_blank" href="http://law.suda.edu.cn/">苏州大学王健法学院</a></br>
+<a target="_blank" href="http://law.uibe.edu.cn/">对外经济贸易大学法学院</a></br>
+<a target="_blank" href="http://law.znufe.edu.cn/">中南财经政法大学法学院</a></br>
+<a target="_blank" href="http://www.bnulaw.com/cn/">北京师范大学法学院</a></br>
+
+
+## 法学研究所/中心
+<a target="_blank" href="http://humanrights.ruc.edu.cn/">中国人民大学人权研究中心</a></br>
+<a target="_blank" href="http://law.ruc.edu.cn/flzs/">中国人民大学法律诊所</a></br>
+<a target="_blank" href="http://www.commonlaw.cn/">中国人民大学普通法中心</a></br>
+<a target="_blank" href="http://www.legaltheory.com.cn">吉林大学理论法学研究中心</a></br>
+<a target="_blank" href="http://www.riel.whu.edu.cn/">武汉大学环境法研究所</a></br>
+<a target="_blank" href="http://ipr.ruc.edu.cn/">中国人民大学知识产权学院</a></br>
+<a target="_blank" href="http://lawyer.ruc.edu.cn/index.html">中国人民大学律师学院</a></br>
+
+
+
+## 律师实务
+<a target="_blank" href="http://www.acla.org.cn/home/toPage">中国律师网</a></br>
+<a target="_blank" href="http://www.lawyerstudy.com.cn/">律师业务研究网</a></br>
+<a target="_blank" href="http://lawyer.ruc.edu.cn/index.html">中国人民大学律师学院</a></br>
+
+
+
+## 刑法
+<a target="_blank" href="http://ccls.bnu.edu.cn/">京师刑事法治网</a></br>
+<a target="_blank" href="http://www.criminallaw.com.cn/" >中国刑事法律网</a></br>
+
+## 民商法
+
+## 宪法行政法
+
+## 社会法
+
+
+## 法学期刊
+
+
+## 法学出版社
+<a target="_blank" href="http://www.crup.com.cn/fl/">中国人民大学出版社法律分社</a></br>
+<a target="_blank" href="http://www.lawpress.com.cn/">法律出版社</a></br>
+<a target="_blank" href="http://www.zgfzs.com/">中国法制出版社</a></br>
+<a target="_blank" href="http://www.zgjccbs.com/">中国检察出版社</a></br>
+
+
+## 法学综合信息
+
+
+## 互联网法学
+
+## 外国法
+
+
+
+
+## all sites
 
 <a target="_blank" href="http://123.232.109.130:81/Column/Column_Template4.aspx?ColumnID=358">机关服务中心</a></br>
 <a target="_blank" href="http://123.232.109.130:81/Column/Column_Template4.aspx?ColumnID=360">中国法律年鉴社</a></br>
